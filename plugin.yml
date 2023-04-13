@@ -1,0 +1,4 @@
+name: ZEnchant
+main: nukkit.ZEnchant.ZEnchant
+version: "1.0.0"
+api: ["1.0.0"]
